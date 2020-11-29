@@ -1,5 +1,5 @@
 from hazm import *
-import os
+
 #Make the code simpler
 stopwords=stopwords_list("Persian_stopwords.txt")
 sent='فردا هوای تهران و شیراز چند درجه  خواهد شد؟'
