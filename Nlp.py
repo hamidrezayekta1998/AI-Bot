@@ -1,6 +1,6 @@
 from hazm import *
 
-#Make the code simpler
+
 #Correcting the github account
 
 stopwords=stopwords_list("Persian_stopwords.txt")
