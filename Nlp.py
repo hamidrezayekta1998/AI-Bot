@@ -4,6 +4,7 @@ from hazm import *
 #Correcting the github account
 #Now my account works correctly it's compeltely ok
 
+
 stopwords=stopwords_list("Persian_stopwords.txt")
 sent='فردا هوای تهران و شیراز چند درجه  خواهد شد؟'
 print(sent)
